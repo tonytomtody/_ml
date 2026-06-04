@@ -17,7 +17,7 @@ by 自己和同學協助
 ## 習題 3 -- 請用 AI 為 nn0.py 寫機器學習或神經網路學習範例
 
 ---
-[HW3](./week4/nn0_interactive_tutorial.ipynb)  
+[HW3 含說明](./week4/nn0_interactive_tutorial.ipynb)  
 [對話紀錄](./week4/chatMessage.md)  
 by Github Copilot  
 
